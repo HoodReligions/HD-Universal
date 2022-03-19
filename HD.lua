@@ -1,4 +1,4 @@
---Lower sens recommended, if its Hood duels re-execute everytime you die 
+print("Hello HoodReligions") 
 ---------------
 _G.Pred = 0.131 --for 100, 90 ping, If 160 or 170 ping do 0.200, If 60, 70 ping then 0.129, lower than 60 use 0.119
 _G.sens = 2 --The sens of the lock
